@@ -1,0 +1,34 @@
+.nav{
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.buttons a{
+  text-decoration: none;
+  
+
+}
+#content1{
+  height: 100vh;
+}
+.btn:hover a{
+  color: white;
+  
+}
+
+ 
+  .container{
+    background-color: bisque;
+    padding:100px;
+    border-color: black 1px;
+    border-radius: 10px;
+    
+}
+
+.machine{
+  height: 100vh;
+  color: white;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJdysRgtXvaA-e9gjfMpVbIHK-pulUclAZg&s");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
